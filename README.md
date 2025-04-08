@@ -1,7 +1,5 @@
 # Fine_tuning_LLMs
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f901107/Fine_tuning_LLMs/blob/main/Fine_tune_Llama_2_in_Google_Colab.ipynb)
-
 # 介紹
 
 在 OpenAI 領導下，自然語言處理的大型語言模型（Large Language Models, LLMs）已經取得了令人矚目的進展。然而，這些模型也存在一些限制。首先，人們對於隱私問題感到擔憂，因為這些模型需要在一定程度上遵守固定的規則，並受限於它們最後一次訓練的日期。另外，像 PaLM / PaLM 2 和 GPT-3.5 / GPT-4 這樣的預訓練 LLM 並不是開源的，這也意味著開發者和研究人員無法深入了解模型的內部運作，進而限制了他們針對特定應用場景進行微調和客製化的能力。
